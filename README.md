@@ -1,8 +1,5 @@
 
 # QR Code Attendance System
-
-![image alt](https://github.com/Charan05-bit/QR_based_attendance_system/blob/a12bee5ee592e34b43301641a70cba4830560521/combined_image.png)
-
 A modern, lightweight attendance tracking system that uses QR codes and local network verification to record student attendance without requiring logins or cloud services.
 
 ## Features
@@ -116,7 +113,7 @@ qr-attendance-system/
 ## Screenshots
 
 **Teacher Interface**  
-![Teacher Interface](https://i.imgur.com/example1.jpg)
+![image alt](https://github.com/Charan05-bit/QR_based_attendance_system/blob/be59c71773f0e8b8bc998dc0aa882dc27260d39c/Screenshot%20(39).png)
 
 **Student Mobile View**  
 ![Student View](https://i.imgur.com/example2.jpg)
