@@ -116,7 +116,7 @@ qr-attendance-system/
 ![image alt](https://github.com/Charan05-bit/QR_based_attendance_system/blob/be59c71773f0e8b8bc998dc0aa882dc27260d39c/Screenshot%20(39).png)
 
 **Student Mobile View**  
-![Student View](https://i.imgur.com/example2.jpg)
+![image alt](https://github.com/Charan05-bit/QR_based_attendance_system/blob/071ce8acba8ac7c523e3b6948070d69eae7d81a2/Screenshot%20(40).png)
 
 ## Contributing
 
