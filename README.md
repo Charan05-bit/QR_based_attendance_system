@@ -1,5 +1,5 @@
 
-# QR Code Attendance System
+# QR_Code Attendance System
 A modern, lightweight attendance tracking system that uses QR codes and local network verification to record student attendance without requiring logins or cloud services.
 
 ## Features
